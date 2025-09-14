@@ -1,1 +1,1 @@
-# temp-repo
+# GitHub class practice
