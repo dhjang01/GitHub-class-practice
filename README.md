@@ -5,7 +5,6 @@
 ### Proposal (Level 3 Heading)
 
 ---
-
 I am planning to make a computer vision software that detects objects in images.)
 In order to build it, I will use opencv, deep learning libraries, such as [TensorFlow](https://github.com/tensorflow/tensorflow) or [PyTorch](https://github.com/pytorch/pytorch), and other open source softwares. 
 
